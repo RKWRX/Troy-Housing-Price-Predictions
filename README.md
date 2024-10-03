@@ -1,5 +1,5 @@
 # Troy Housing Price Predictions
-The project demonstrates the process of housing price prediction in Troy, MI, using tree based methods. It includes data description, EDA procedure, analysis (model building and training), results, and conclusions.
+The project demonstrates the process of housing price prediction in Troy, MI, using supervised learning methods. It includes data description, EDA procedure, analysis (model building and training), results, and conclusions.
 
 There are three files in this repository:
   1. README.md: This file
